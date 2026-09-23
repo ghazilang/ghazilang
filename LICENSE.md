@@ -1,15 +1,16 @@
-# Business Source License 1.1 (BSL) – GhaziLang
+# GhaziLang Commercial & Source-Available License
 
-Copyright (c) 2026 DevGhazi / Ghazi Organization.
+Copyright (c) 2026 DevGhazi / Ghazi Organization. All Rights Reserved.
 
-## 1. Non-Commercial & Educational Use
-GhaziLang is free to use, modify, and distribute for personal projects, educational purposes, academic research, non-profit use, and open-source software development across any operating system or platform.
+## 1. Free Non-Commercial & Educational Use
+GhaziLang is free to access, study, modify, and use for personal projects, academic research, educational learning, and non-profit development across any platform.
 
 ## 2. Commercial License Requirement
-Any commercial entity, business, or individual using GhaziLang for commercial purposes (including deploying production services, embedding the compiler or runtime into proprietary products, or distributing commercial applications built on GhaziLang) must obtain a commercial license.
+Any commercial entity, enterprise, or individual using GhaziLang for commercial purposes (including deploying production applications, bundling the compiler/runtime inside proprietary products, or offering paid services built on GhaziLang) must purchase an explicit commercial license.
 
-For commercial licensing inquiries, contact: @DevGhazi
+## 3. Perpetual Ownership & Restrictions
+- DevGhazi retains exclusive, perpetual ownership of all commercial licensing rights.
+- This license does not auto-convert or expire into an open-source license over time.
+- Commercial usage without a valid agreement from @DevGhazi is strictly prohibited.
 
-## 3. Change License
-On January 1, 2030, this code will automatically convert to the GNU General Public License v3.0 (GPLv3).
-
+For commercial licensing and enterprise inquiries, contact: @DevGhazi
